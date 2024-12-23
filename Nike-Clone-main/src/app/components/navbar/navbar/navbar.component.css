@@ -1,0 +1,31 @@
+.banner-logo{
+    display: flex;
+    justify-content: center;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.category-container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#search{
+    border-radius: 20px;
+}
+.s-w-c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.s{
+    padding-left: 20%; 
+}
+.w{
+padding-left: 5%;
+}

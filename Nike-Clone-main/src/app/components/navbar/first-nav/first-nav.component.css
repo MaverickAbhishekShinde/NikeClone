@@ -1,0 +1,18 @@
+.navbar-0{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: smaller;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.right-item{
+    display: flex;
+    justify-content: flex-end;
+}
+.vl{
+    border-left: 2px solid grey;
+}
